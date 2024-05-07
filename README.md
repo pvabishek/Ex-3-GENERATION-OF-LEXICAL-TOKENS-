@@ -1,7 +1,7 @@
 # Ex-3 GENERATION OF LEXICAL TOKENS USING C
 # DATE: 21.02.24
-# NAME: Mourise jane S
-# REGISTER NUMBER: 212222230085
+# NAME: ABISHEK PV
+# REGISTER NUMBER: 2122222230003
 # AIM:
 ## To write a C program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM:
@@ -18,9 +18,9 @@
   	
 5)	Stop the program.
 # PROGRAM:
-NAME: Bharathi priyan T.
+NAME: ABISHEK PV
 
-REGISTER NUMBER:212221040028
+REGISTER NUMBER:212222230003
 ```
 #include <stdio.h>
 #include <ctype.h>
